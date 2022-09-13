@@ -1,4 +1,4 @@
-👋 Ayo
+👋 Hey
 ---
 
 Currently working through The Odin Project curriculum, learning **HTML, CSS & JavaScript** to gain **Front End Web Development** skills.

@@ -7,7 +7,6 @@ Exploring opportunities in Web Development
 ------------------------------------------
 
 *   🌍  Currently based in the UK, Hartlepool
-*   🖥️  See my portfolio at [MyPortfolio](http://placeholder.com)
 *   ✉️  You can contact me at [jsrichh5@gmail.com](mailto:jsrichh5@gmail.com)
 
 ### Skills

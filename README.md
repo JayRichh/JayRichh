@@ -1,9 +1,7 @@
 Hey 👋
 ==================================
-Currently sinking my teeth in to JavaScript and React                                                                                                                   
-------------------------------------------
 
-*   🌍  Based in the UK, Hartlepool
+*   🌍  Developer based in the UK, Hartlepool
 *   ✉️  You can contact me at [jayrich.dev@gmail.com](mailto:jayrich.dev@gmail.com)
 *   🧑‍💼  Reach out on LinkedIn [Here](https://www.linkedin.com/in/jaydenrichardson/)
 

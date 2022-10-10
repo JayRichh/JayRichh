@@ -1,7 +1,7 @@
 Hey 👋
 ==================================
 
-*   🌍  Check out my [website](https://www.jayrich.dev/)
+*   🌍  Check out my [portfolio website](https://www.jayrich.dev/)
 *   ✉️  You can contact me at [jayrich.dev@gmail.com](mailto:jayrich.dev@gmail.com)
 *   🧑‍💼  Reach out on LinkedIn [Here](https://www.linkedin.com/in/jaydenrichardson/)
 

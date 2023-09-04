@@ -5,9 +5,9 @@ Hey 👋
 *   🌍  Check out my [portfolio website](https://www.jayrich.dev/)
 *   ✉️  You can contact me at [jayrich.dev@gmail.com](mailto:jayrich.dev@gmail.com)
 *   🧑‍💼  Reach out on LinkedIn [Here](https://www.linkedin.com/in/jaydenrichardson/)
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayrichh&layout=compact)
-
+<!--
 ### Skills:
 
 <p align="left">

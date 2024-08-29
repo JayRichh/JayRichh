@@ -6,7 +6,7 @@
     </a>
     <br/><br/>
     <a href="https://jayrich.dev" target="_blank">
-      <img src="https://raw.githubusercontent.com/JayRichh/greebles/main/front/public/logo.webp" align="center" width="64">
+      <img src="https://raw.githubusercontent.com/JayRichh/greebles/main/front/public/logo.webp" align="center" width="64" style="border-radius: 10px;">
     </a>
     <strong><a href="https://jayrich.dev" target="_blank">Portfolio</a></strong>
     &nbsp;

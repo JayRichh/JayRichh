@@ -19,4 +19,6 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" align="center" width="64">
     </a>
     <strong><a href="https://www.linkedin.com/in/jaydenrichardson" target="_blank">LinkedIn</a></strong>
+<br><br>
+      <img src="https://github.com/user-attachments/assets/d7918087-90ef-4a2c-b922-2fed783cd34b" align="center" width="480">
   </div>

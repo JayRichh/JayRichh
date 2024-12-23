@@ -1,24 +1,11 @@
-# Hey 👋
+<div align="center">
+  
+## Hey! 👋 <br></br>
 
-  <div>
-    <a href="https://github.com/jayrichh" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayRichh&layout=compact&langs_count=6&theme=dark" width="420">
-    </a>
-    <br/><br/>
-    <a href="https://jayrich.dev" target="_blank">
-      <img src="https://raw.githubusercontent.com/JayRichh/greebles/main/front/public/logo.webp" align="center" width="64" style="border-radius: 10px;">
-    </a>
-    <strong><a href="https://jayrich.dev" target="_blank">Portfolio</a></strong>
-    &nbsp;
-    <a href="https://codepen.io/JayRichh" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" align="center" width="64">
-    </a>
-    <b><a href="https://codepen.io/JayRichh" target="_blank">CodePen</a></b>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/jaydenrichardson" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" align="center" width="64">
-    </a>
-    <strong><a href="https://www.linkedin.com/in/jaydenrichardson" target="_blank">LinkedIn</a></strong>
-<br><br>
-      <img src="https://github.com/user-attachments/assets/d7918087-90ef-4a2c-b922-2fed783cd34b" align="center" width="480">
-  </div>
+</div>
+
+<div align="center" style="font-family: 'IBM Plex Sans', sans-serif;">
+  
+  [**Portfolio**](https://jayrich.dev) &nbsp;&nbsp;•&nbsp;&nbsp; [**GitHub**](https://github.com/jayrichh) &nbsp;&nbsp;•&nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/jaydenrichardson) 
+
+</div>

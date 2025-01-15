@@ -6,6 +6,12 @@
 
 <div align="center" style="font-family: 'IBM Plex Sans', sans-serif;">
   
-  [**Portfolio**](https://jayrich.dev) &nbsp;&nbsp;•&nbsp;&nbsp; [**GitHub**](https://github.com/jayrichh) &nbsp;&nbsp;•&nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/jaydenrichardson) 
+  [**About**](https://jayrich.dev/about) &nbsp;&nbsp;•&nbsp;&nbsp; 
+  [**Work**](https://jayrich.dev/work) &nbsp;&nbsp;•&nbsp;&nbsp; 
+  [**Code**](https://jayrich.dev/code) &nbsp;&nbsp;
+
+  <br>
+
+  [**LinkedIn**](https://www.linkedin.com/in/jaydenrichardson)
 
 </div>

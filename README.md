@@ -16,7 +16,4 @@
 
   <br>
 
-  [**LinkedIn**](https://www.linkedin.com/in/jaydenrichardson) </h2><br></br>
-  
-
 </div>
